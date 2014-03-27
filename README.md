@@ -3,7 +3,7 @@ VM
 
 The Variability Modeling and Configuration Language 
 
-### VM v2.0 (by Mauricio Alferez and team)
+### VM v2.0
 
  * Initial commit 23/07/2013 by Mauricio Alferez
  
