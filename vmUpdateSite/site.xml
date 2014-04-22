@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <description name="VM language" url="http://mao2013.github.io/VM/vmUpdateSite/">
-      VM language for variability modeling and configuration
-   </description>
-   <feature url="features/fr.inria.lang.vm.sdk_1.0.0.v20140622.jar" id="fr.inria.lang.vm.sdk" version="1.0.0.v20140622"/>
-</site>
