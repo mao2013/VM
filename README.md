@@ -27,7 +27,7 @@ _Also VM supports the most advanced characteristics in extended feature models, 
   - Constraints that support features, attributes, values and a rich set of operations and functions.
   - Quantification when expressing constraints and global functions.
  
- ### How to Use VM v2.0 source code plugins 
+### How to Use VM v2.0 source code plugins 
   - Close or uninstall all the projects org.xtext.example.vm.* in your workspace or plugins directory. Those plugins represent the previous version 1.0 of VM
   - Import all the projects fr.inria.lang.vm.* from the VM repository
   - Right click on fr.inria.lang.vm
