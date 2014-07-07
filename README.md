@@ -6,6 +6,9 @@ The Variability Modeling and Configuration Language
 ### VM v2.0
 
  * Initial commit 23/07/2013 by Mauricio Alferez
+
+VM is part of the ViViD Framework (<a href="https://github.com/ViViD-DiverSE/">https://github.com/ViViD-DiverSE/</a>). In the ViViD-DiverSE repository you will find a copy of the VM source files (<a href="https://github.com/ViViD-DiverSE/VM-Source">https://github.com/ViViD-DiverSE/VM-Source</a>) as well as VANE, a pair-wise generator for video configuration files based on VM (<a href="https://github.com/ViViD-DiverSE/VANE">https://github.com/ViViD-DiverSE/VANE</a>).</p>
+
  
 ### VM special features
 _The most common types of additional information supported by VM are:_
