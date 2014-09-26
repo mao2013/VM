@@ -1,7 +1,7 @@
 VM
 ==
 
-The Variability Modeling and Configuration Language 
+The Variability Modeling Language 
 
 ### VM v2.0
 
