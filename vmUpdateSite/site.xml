@@ -4,5 +4,5 @@
       VM is human readable and writable textual language for Variability Modeling and Configuration of systems.
    </description>
    <feature url="features/fr.inria.lang.vm.sdk_1.0.0.201404230047.jar" id="fr.inria.lang.vm.sdk" version="1.0.0.201404230047"/>
-   <feature url="features/fr.inria.lang.vm.sdk_1.0.0.201410271325.jar" id="fr.inria.lang.vm.sdk" version="1.0.0.201410271325"/>
+   <feature url="features/fr.inria.lang.vm.sdk_1.0.0.201410271329.jar" id="fr.inria.lang.vm.sdk" version="1.0.0.201410271329"/>
 </site>
