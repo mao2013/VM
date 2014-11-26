@@ -8,7 +8,7 @@ The Variability Modeling Language
  * Initial commit 23/07/2013 by Mauricio Alferez
 
 VM is part of the ViViD Framework (<a href="https://github.com/ViViD-DiverSE/">https://github.com/ViViD-DiverSE/</a>). In the ViViD-DiverSE repository you will find a copy of the VM source files (<a href="https://github.com/ViViD-DiverSE/VM-Source">https://github.com/ViViD-DiverSE/VM-Source</a>) as well as VANE, a pair-wise generator for video configuration files based on VM (<a href="https://github.com/ViViD-DiverSE/VANE">https://github.com/ViViD-DiverSE/VANE</a>).</p>
-The newest versions of VM have been developed in a private repository of the DiverSE group of INRIRA, Rennes, France as part of the Familiar Project (https://github.com/FAMILIAR-project) to create pure web-based HTML 5 version of VM.
+An enhanced version of VM has been developed in a private repository of the DiverSE group of INRIRA, Rennes, France. The VM repository (https://github.com/FAMILIAR-project/VM) is part of the Familiar Project (https://github.com/FAMILIAR-project). Please talk to the administrator of FAMILIAR-project to obtain access.
  
 ### VM special features
 _The most common types of additional information supported by VM are:_
