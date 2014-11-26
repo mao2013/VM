@@ -15,11 +15,11 @@ _The most common types of additional information supported by VM are:_
   - **Default** values that help to complete partial configurations, 
   - **Deltas** to discretise real domains, 
   - Controlled **descriptions** in natural language about the model itself, features, attributes and constraints, 
-  - **multi-ranges** and **multi-deltas** that allow to use several ranges and deltas to define the domain of the values of an attribute,
-  - **not translatable** tags a purely informative feature or attribute,
-  - **not decidable** tags a feature or attribute that do not help to differentiate products, 
-  - **runtime** tags a feature or attribute that varies only at runtime,
-  - **objective functions** allow to filter valid configurations. For example, generating only low cost product configurations.
+  - **Multi-ranges** and **multi-deltas** that allow to use several ranges and deltas to define the domain of the values of an attribute,
+  - **Not translatable** tags a purely informative feature or attribute,
+  - **Not decidable** tags a feature or attribute that do not help to differentiate products, 
+  - **Runtime** tags a feature or attribute that varies only at runtime,
+  - **Multi-objective functions** allow to filter valid configurations. For example, generating only low cost product configurations.
 
 _Also VM supports the most advanced characteristics in extended feature models, for example_:
   - Attributed feature models
