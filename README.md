@@ -8,24 +8,24 @@ The Variability Modeling Language
  * Initial commit 23/07/2013 by Mauricio Alferez
 
 VM is part of the ViViD Framework (<a href="https://github.com/ViViD-DiverSE/">https://github.com/ViViD-DiverSE/</a>). In the ViViD-DiverSE repository you will find a copy of the VM source files (<a href="https://github.com/ViViD-DiverSE/VM-Source">https://github.com/ViViD-DiverSE/VM-Source</a>) as well as VANE, a pair-wise generator for video configuration files based on VM (<a href="https://github.com/ViViD-DiverSE/VANE">https://github.com/ViViD-DiverSE/VANE</a>).</p>
-
+The newest versions of VM have been developed in a private repository of the DiverSE group of INRIRA, Rennes, France as part of the Familiar Project (https://github.com/FAMILIAR-project) to create pure web-based HTML 5 version of VM.
  
 ### VM special features
 _The most common types of additional information supported by VM are:_
   - **Default** values that help to complete partial configurations, 
   - **Deltas** to discretise real domains, 
-  - controlled **descriptions** in natural language about the model itself, features, attributes and constraints, 
+  - Controlled **descriptions** in natural language about the model itself, features, attributes and constraints, 
   - **multi-ranges** and **multi-deltas** that allow to use several ranges and deltas to define the domain of the values of an attribute,
   - **not translatable** tags a purely informative feature or attribute,
   - **not decidable** tags a feature or attribute that do not help to differentiate products, 
-  - **runtime** tags a feature or attribute that vary only at runtime,
-  - **objective functions** allow to filter validate configurations. For example, generating only low cost product configurations.
+  - **runtime** tags a feature or attribute that varies only at runtime,
+  - **objective functions** allow to filter valid configurations. For example, generating only low cost product configurations.
 
 _Also VM supports the most advanced characteristics in extended feature models, for example_:
   - Attributed feature models
   - Packages and import mechanisms
-  - metainformation of the main model
-  - metainformation of features and attributes
+  - Metainformation of the main model
+  - Metainformation of features and attributes
   - Specification of configurations of feature and attributes values using tables.
   - Constraints that support features, attributes, values and a rich set of operations and functions.
   - Quantification when expressing constraints and global functions.
